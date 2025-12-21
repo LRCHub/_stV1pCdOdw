@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "睡蓮花",
+  "base_artist": "Shounanno Kaze",
+  "createdAt": "2025-12-21T14:06:09.699825Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "睡蓮花 - Suirenka",
+      "artist": "Shounanno Kaze",
+      "has_synced": true,
+      "path": "select/01_睡蓮花_-_Suirenka_Shounanno_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "睡蓮花",
+      "artist": "Shonan No Kaze",
+      "has_synced": true,
+      "path": "select/02_睡蓮花_Shonan_No_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "睡蓮花",
+      "artist": "湘南乃風",
+      "has_synced": true,
+      "path": "select/03_睡蓮花_湘南乃風.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "睡蓮花",
+      "artist": "Shounanno Kaze",
+      "has_synced": false,
+      "path": "select/04_睡蓮花_Shounanno_Kaze.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "睡蓮花",
+      "artist": "湘南乃風",
+      "has_synced": false,
+      "path": "select/pl_01_睡蓮花_湘南乃風.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "睡蓮花",
+      "artist": "湘南乃風",
+      "has_synced": false,
+      "path": "select/pl_02_睡蓮花_湘南乃風.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "睡蓮花",
+      "artist": "湘南乃風",
+      "has_synced": false,
+      "path": "select/pl_03_睡蓮花_湘南乃風.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "睡蓮花",
+      "artist": "湘南乃風",
+      "has_synced": false,
+      "path": "select/pl_04_睡蓮花_湘南乃風.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "睡蓮花",
+      "artist": "湘南乃風",
+      "has_synced": false,
+      "path": "select/pl_05_睡蓮花_湘南乃風.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "睡蓮花",
+      "artist": "湘南乃風",
+      "has_synced": false,
+      "path": "select/pl_06_睡蓮花_湘南乃風.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "睡蓮花",
+      "artist": "湘南乃風",
+      "has_synced": false,
+      "path": "select/pl_07_睡蓮花_湘南乃風.txt"
+    }
+  ]
+}
